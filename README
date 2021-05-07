@@ -1,0 +1,10 @@
+A game wrriten for unity and windows , it necesitates the existance of Unity and Blender for models
+The unique scene is written in C3, the background image is taken from internet
+The game has 2 Players but no definit winner, the game ends when you press enter.
+The ball direction,initial position and the force the ball is trown to the pins.
+The inital position on x axis is controlled using the arrows:left and right.
+To control the force and speed you use arrows: up and down
+to control the angle you trow the ball indicated by the purple arrow use buttobs: A and S
+To change player use button:B
+To restart game use button:R
+
